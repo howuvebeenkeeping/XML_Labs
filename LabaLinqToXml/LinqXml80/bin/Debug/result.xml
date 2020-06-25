@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+  <house8>
+    <entrance1 total-debt="777.24" count="1">
+      <flat4 name="Чекотин А.А." />
+    </entrance1>
+    <entrance2 total-debt="1781.43" count="1">
+      <flat72 name="Синицин П.И." />
+    </entrance2>
+    <entrance3 total-debt="2102.25" count="2">
+      <flat100 name="Толкин А.К." />
+      <flat117 name="Ошинин В.А." />
+    </entrance3>
+  </house8>
+  <house12>
+    <entrance1 total-debt="3221.91" count="3">
+      <flat8 name="Петров В.А." />
+      <flat28 name="Иванов А.В." />
+      <flat36 name="Сидоров Н.А." />
+    </entrance1>
+    <entrance3 total-debt="762.17" count="1">
+      <flat78 name="Смирнов А.Н." />
+    </entrance3>
+  </house12>
+  <house24>
+    <entrance1 total-debt="1051.49" count="1">
+      <flat36 name="Занятов Н.Н." />
+    </entrance1>
+    <entrance2 total-debt="1265" count="2">
+      <flat45 name="Сидорович А.С." />
+      <flat55 name="Антонов Д.С." />
+    </entrance2>
+    <entrance4 total-debt="632.78" count="1">
+      <flat120 name="Синякова В.В." />
+    </entrance4>
+  </house24>
+</root>

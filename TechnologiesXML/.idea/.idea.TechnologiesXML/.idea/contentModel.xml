@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Rustamka\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Rustamka\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_TechnologiesXML.1549480781.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Rustamka\RiderProjects\TechnologiesXML" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TechnologiesXML" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TechnologiesXML.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TechnologiesXML.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

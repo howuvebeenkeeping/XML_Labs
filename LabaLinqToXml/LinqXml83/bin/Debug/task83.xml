@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root title="record" size="4">
+  <record>
+    <class>9</class>
+    <name>Степанова Д.Б.</name>
+    <subject>Физика</subject>
+    <mark>4</mark>
+  </record>
+  <record>
+    <class>10</class>
+    <name>Овчинникова А.В.</name>
+    <subject>Математика</subject>
+    <mark>2</mark>
+  </record>
+  <record>
+    <class>7</class>
+    <name>Коробов Н.А.</name>
+    <subject>Информатика</subject>
+    <mark>5</mark>
+  </record>
+  <record>
+    <class>11</class>
+    <name>Пискунов Р.А.</name>
+    <subject>Программирование</subject>
+    <mark>4</mark>
+  </record>
+</root>

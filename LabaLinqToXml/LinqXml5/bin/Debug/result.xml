@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+  <line num="1">
+    <word num="1">это</word>
+    <word num="2">самая</word>
+    <word num="3">первая</word>
+    <word num="4">строка</word>
+  </line>
+  <line num="2">
+    <word num="1">вторая</word>
+    <word num="2">строка</word>
+  </line>
+  <line num="3">
+    <word num="1">тут</word>
+    <word num="2">уже</word>
+    <word num="3">целая</word>
+    <word num="4">третья</word>
+    <word num="5">строка</word>
+  </line>
+  <line num="4">
+    <word num="1">аккуратнее</word>
+    <word num="2">здесь</word>
+    <word num="3">уже</word>
+    <word num="4">четвертая</word>
+    <word num="5">строчка</word>
+  </line>
+  <line num="5">
+    <word num="1">there</word>
+    <word num="2">is</word>
+    <word num="3">the</word>
+    <word num="4">fifth</word>
+    <word num="5">one</word>
+    <word num="6">here</word>
+  </line>
+  <line num="6">
+    <word num="1">шестая</word>
+    <word num="2">строчка</word>
+    <word num="3">будет</word>
+    <word num="4">последней</word>
+  </line>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root title="record" size="4">
+  <record>
+    <company>Лидер</company>
+    <street>ул.Чехова</street>
+    <brand>92</brand>
+    <price>2200</price>
+  </record>
+  <record>
+    <company>Самбади</company>
+    <street>ул.Петрова</street>
+    <brand>98</brand>
+    <price>2300</price>
+  </record>
+  <record>
+    <company>Хелекоптер</company>
+    <street>ул.Семенова</street>
+    <brand>95</brand>
+    <price>2800</price>
+  </record>
+  <record>
+    <company>БензинОнОдин</company>
+    <street>ул.Толстого</street>
+    <brand>94</brand>
+    <price>2000</price>
+  </record>
+</root>

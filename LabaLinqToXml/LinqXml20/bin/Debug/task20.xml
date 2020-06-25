@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1251" ?>
+<root>
+   <people count="4" nat="ru" lang="ru" some="true">
+      <person4 name="Иван" surname="Иванов" patronymic="Иванович" />
+      <person2 name="Петр" surname="Петров" patronymic="Петрович" />
+      <person3 name="Джон" surname="Джонсон" />
+      <person1 name="Семен" surname="Семенов" patronymic="Семенович" />
+   </people>
+   <animals types="2">
+      <dis count="1" country="New_Zeland">
+         <beast name="зверюшка1" weight="50.6">
+            зверюшка 1
+         </beast>
+      </dis>
+      <cat>
+        <kitty name="Кристофер" surname="Робин">
+           коткоткот
+        </kitty>
+      </cat>
+   </animals>
+</root>

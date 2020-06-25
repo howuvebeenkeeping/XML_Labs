@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE timetable [
+  <!ELEMENT timetable (week)+>
+  <!ELEMENT week (day)+>
+  <!ELEMENT day (lesson)*> 
+  <!ELEMENT lesson (audience, teacher, time_begin, time_end, type)>
+  <!ELEMENT audience (#PCDATA)>
+  <!ELEMENT teacher (#PCDATA)>
+  <!ELEMENT time_begin (#PCDATA)>
+  <!ELEMENT time_end (#PCDATA)>
+  <!ELEMENT type (#PCDATA)>
+  <!ENTITY eng "Английский язык">
+  <!ENTITY algorithms "Алгоритмы и структуры данных">
+  <!ENTITY kpo "Конструирование программного обеспечения">
+  <!ENTITY db "Базы данных">
+  <!ENTITY stat "Стат. и эмпер. методы компьютинга">
+  <!ENTITY nis "Науч.-исслед.семинар">
+  <!ENTITY opsys "Операционные системы">
+  <!ATTLIST week num CDATA #REQUIRED>
+  <!ATTLIST day num CDATA #REQUIRED count CDATA #REQUIRED>
+  <!ATTLIST lesson title CDATA #REQUIRED>
+]>
+<timetable>	
+  <week num="4">
+    <day num="1" count="4">
+      <lesson title="&algorithms;">
+        <audience>510</audience>
+        <teacher>Морозенко В.В.</teacher>
+        <time_begin>09:40:00</time_begin>
+        <time_end>11:00:00</time_end>
+        <type>практика</type>
+      </lesson>
+      <lesson title="&eng;">
+        <audience>305</audience>
+        <teacher>Садикова Т.Б.</teacher>
+        <time_begin>11:30:00</time_begin>
+        <time_end>12:50:00</time_end>
+        <type>практика</type>
+      </lesson>
+      <lesson title="&eng;">
+        <audience>305</audience>
+        <teacher>Садикова Т.Б.</teacher>
+        <time_begin>13:00:00</time_begin>
+        <time_end>14:20:00</time_end>
+        <type>практика</type>
+      </lesson>
+      <lesson title="&kpo;">
+        <audience>510</audience>
+        <teacher>Ланин В.В.</teacher>
+        <time_begin>14:50:00</time_begin>
+        <time_end>16:10:00</time_end>
+        <type>практика</type>
+      </lesson>
+    </day>
+    <day num="2" count="3">
+      <lesson title="&db;">
+        <audience>509</audience>
+        <teacher>Хренов В.В.</teacher>
+        <time_begin>09:40:00</time_begin>
+        <time_end>11:00:00</time_end>
+        <type>практика</type>
+      </lesson>
+      <lesson title="&kpo;">
+        <audience>509</audience>
+        <teacher>Ланин В.В.</teacher>
+        <time_begin>11:30:00</time_begin>
+        <time_end>12:50:00</time_end>
+        <type>практика</type>
+      </lesson>
+      <lesson title="&kpo;">
+        <audience>501</audience>
+        <teacher>Ланин В.В.</teacher>
+        <time_begin>13:00:00</time_begin>
+        <time_end>14:20:00</time_end>
+        <type>лекция</type>
+      </lesson>
+    </day>
+    <day num="3" count="4">
+      <lesson title="&stat;">
+        <audience>504</audience>
+        <teacher>Радионова М.В.</teacher>
+        <time_begin>08:10:00</time_begin>
+        <time_end>09:40:00</time_end>
+        <type>практика</type>
+      </lesson>
+      <lesson title="&nis;">
+        <audience>501</audience>
+        <teacher>Носкова Е.Н.</teacher>
+        <time_begin>09:40:00</time_begin>
+        <time_end>11:00:00</time_end>
+        <type>практика</type>
+      </lesson>
+      <lesson title="&eng;">
+        <audience>311</audience>
+        <teacher>Садикова Т.Б.</teacher>
+        <time_begin>11:30:00</time_begin>
+        <time_end>12:50:00</time_end>
+        <type>практика</type>
+      </lesson>
+      <lesson title="&eng;">
+        <audience>311</audience>
+        <teacher>Садикова Т.Б.</teacher>
+        <time_begin>13:00:00</time_begin>
+        <time_end>14:20:00</time_end>
+        <type>практика</type>
+      </lesson>
+    </day>
+    <day num="4" count="2">
+      <lesson title="&stat;">
+        <audience>102</audience>
+        <teacher>Радионова М.В.</teacher>
+        <time_begin>11:30:00</time_begin>
+        <time_end>12:50:00</time_end>
+        <type>лекция</type>
+      </lesson>
+      <lesson title="&opsys;">
+        <audience>102</audience>
+        <teacher>Лядова Л.Н.</teacher>
+        <time_begin>13:00:00</time_begin>
+        <time_end>14:20:00</time_end>
+        <type>лекция</type>
+      </lesson>
+    </day>
+    <day num="5" count="2">
+      <lesson title="&algorithms;">
+        <audience>504</audience>
+        <teacher>Морозенко В.В.</teacher>
+        <time_begin>09:40:00</time_begin>
+        <time_end>11:00:00</time_end>
+        <type>пркатика</type>
+      </lesson>
+      <lesson title="&db;">
+        <audience>102</audience>
+        <teacher>Хренов В.В.</teacher>
+        <time_begin>11:30:00</time_begin>
+        <time_end>12:50:00</time_end>
+        <type>лекция</type>
+      </lesson>
+    </day>
+  </week>
+</timetable>

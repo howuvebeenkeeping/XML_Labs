@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+  <year value="2001">
+    <total-time id="2">569</total-time>
+    <total-time id="4">462</total-time>
+    <total-time id="5">141</total-time>
+    <total-time id="7">668</total-time>
+    <total-time id="8">132</total-time>
+    <total-time id="22">60</total-time>
+  </year>
+  <year value="2002">
+    <total-time id="1">970</total-time>
+    <total-time id="7">262</total-time>
+  </year>
+  <year value="2003">
+    <total-time id="1">120</total-time>
+  </year>
+  <year value="2005">
+    <total-time id="2">241</total-time>
+    <total-time id="8">130</total-time>
+    <total-time id="22">386</total-time>
+  </year>
+</root>

@@ -1,0 +1,7 @@
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml35\bin\Debug\LinqXml35.exe.config
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml35\bin\Debug\LinqXml35.exe
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml35\bin\Debug\LinqXml35.pdb
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml35\obj\Debug\LinqXml35.csprojAssemblyReference.cache
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml35\obj\Debug\LinqXml35.csproj.CoreCompileInputs.cache
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml35\obj\Debug\LinqXml35.exe
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml35\obj\Debug\LinqXml35.pdb

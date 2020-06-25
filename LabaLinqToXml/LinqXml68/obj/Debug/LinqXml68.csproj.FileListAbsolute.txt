@@ -1,0 +1,7 @@
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml68\bin\Debug\LinqXml68.exe.config
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml68\bin\Debug\LinqXml68.exe
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml68\bin\Debug\LinqXml68.pdb
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml68\obj\Debug\LinqXml68.csprojAssemblyReference.cache
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml68\obj\Debug\LinqXml68.csproj.CoreCompileInputs.cache
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml68\obj\Debug\LinqXml68.exe
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml68\obj\Debug\LinqXml68.pdb

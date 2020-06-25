@@ -1,0 +1,8 @@
+C:\Users\Rustamka\RiderProjects\TechnologiesXML\TechnologiesXML\bin\Debug\TechnologiesXML.exe
+C:\Users\Rustamka\RiderProjects\TechnologiesXML\TechnologiesXML\bin\Debug\TechnologiesXML.pdb
+C:\Users\Rustamka\RiderProjects\TechnologiesXML\TechnologiesXML\bin\Debug\System.Xml.XPath.dll
+C:\Users\Rustamka\RiderProjects\TechnologiesXML\TechnologiesXML\obj\Debug\TechnologiesXML.csprojAssemblyReference.cache
+C:\Users\Rustamka\RiderProjects\TechnologiesXML\TechnologiesXML\obj\Debug\TechnologiesXML.csproj.CoreCompileInputs.cache
+C:\Users\Rustamka\RiderProjects\TechnologiesXML\TechnologiesXML\obj\Debug\TechnologiesXML.csproj.CopyComplete
+C:\Users\Rustamka\RiderProjects\TechnologiesXML\TechnologiesXML\obj\Debug\TechnologiesXML.exe
+C:\Users\Rustamka\RiderProjects\TechnologiesXML\TechnologiesXML\obj\Debug\TechnologiesXML.pdb

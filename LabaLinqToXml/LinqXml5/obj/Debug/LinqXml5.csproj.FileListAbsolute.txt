@@ -1,0 +1,6 @@
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml5\bin\Debug\LinqXml5.exe
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml5\bin\Debug\LinqXml5.pdb
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml5\obj\Debug\LinqXml5.csprojAssemblyReference.cache
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml5\obj\Debug\LinqXml5.csproj.CoreCompileInputs.cache
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml5\obj\Debug\LinqXml5.exe
+C:\Users\Rustamka\RiderProjects\LabaLinqToXml\LinqXml5\obj\Debug\LinqXml5.pdb

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+  <delivery time="P10DT4H27M13S">
+    <packing time="P2D">Упаковка</packing>
+    <transporting>Перевозка</transporting>
+  </delivery>
+  <check time="P4DT16H20M">Проверка</check>
+  <size time="P3D" weight="12" height="4">
+    <checksize time="P1DT14H">Проверка соответствия</checksize>
+  </size>
+  <unpacking></unpacking>
+</root>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE schema [
+  <!ENTITY eng "Английский язык">
+  <!ENTITY algorithms "Алгоритмы и структуры данных">
+  <!ENTITY kpo "Конструирование программного обеспечения">
+  <!ENTITY db "Базы данных">
+  <!ENTITY stat "Стат. и эмпер. методы компьютинга">
+  <!ENTITY nis "Науч.-исслед.семинар">
+  <!ENTITY opsys "Операционные системы">
+]>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="timetable">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="week">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="day" minOccurs="5" maxOccurs="5">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="lesson" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="audience"   type="xs:int"/>
+                          <xs:element name="teacher"    type="xs:string"/>
+                          <xs:element name="time_begin" type="xs:time"/>
+                          <xs:element name="time_end"   type="xs:time"/>
+                          <xs:element name="type"       type="xs:string"/>
+                        </xs:sequence>
+                          <xs:attribute name="title">
+                            <xs:simpleType>
+                              <xs:restriction base="xs:string">
+                                <xs:enumeration value="&algorithms;"/>
+                                <xs:enumeration value="&eng;"/>
+                                <xs:enumeration value="&kpo;"/>
+                                <xs:enumeration value="&db;"/>
+                                <xs:enumeration value="&stat;"/>
+                                <xs:enumeration value="&nis;"/>
+                                <xs:enumeration value="&opsys;"/>
+                              </xs:restriction>
+                            </xs:simpleType>
+                          </xs:attribute>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="num"   type="xs:int"/>
+                  <xs:attribute name="count" type="xs:int"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="num" type="xs:int"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
